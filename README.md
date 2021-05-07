@@ -1,5 +1,7 @@
 # simple js excel
 
+![](simple-js-excel.png)
+
 ## Project setup
 ```
 npm install
